@@ -9,4 +9,4 @@
 20230417 - matplotlib + seaborn, plotly.graph_objects 와 express<br>
 20230418 - Feature Engineering - 이상치 제거, 불필요한 데이터 제거, 결측치 제거 <br>
 20230419 - Feature Engineering - 도출변수, 더미변수, 원핫인코딩<br>
-20230420 - 
+20230420 - kaggle 데이터 연습<br>
